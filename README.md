@@ -6,8 +6,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8.svg)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat&logo=vercel)](https://pulse-595iem5r7-drsotos.vercel.app/)
 
 **PulseOps** is a full-stack, production-grade API monitoring and incident management platform. It periodically tests HTTP/HTTPS endpoints, records sub-millisecond latency telemetry, calculates percentile distributions ($P_{50}, P_{90}, P_{95}, P_{99}$), manages incident lifecycles, dispatches email & webhook alerts, and streams real-time updates via Server-Sent Events (SSE).
+
+🌐 **Live Demo**: [https://pulse-595iem5r7-drsotos.vercel.app/](https://pulse-595iem5r7-drsotos.vercel.app/)
 
 ---
 
