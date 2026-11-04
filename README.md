@@ -10,7 +10,7 @@
 
 **PulseOps** is a full-stack, production-grade API monitoring and incident management platform. It periodically tests HTTP/HTTPS endpoints, records sub-millisecond latency telemetry, calculates percentile distributions ($P_{50}, P_{90}, P_{95}, P_{99}$), manages incident lifecycles, dispatches email & webhook alerts, and streams real-time updates via Server-Sent Events (SSE).
 
-🌐 **Live Demo**: [https://pulse-595iem5r7-drsotos.vercel.app/](https://pulse-595iem5r7-drsotos.vercel.app/)
+
 
 ---
 
